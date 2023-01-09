@@ -1,0 +1,35 @@
+    body {
+        background-color:yellow;
+    }
+    h1 {
+        color:rgb(0,0,255);text-align:center;
+    }
+    p {
+        font-size30px;color:#A52A2A;
+    }
+    table, td, th {
+        border: 1px solid;
+        text-align:center;
+        vertical-align: center;
+    }
+    th {
+        background-color:rgb(54, 141, 54);
+        color: black;
+    }
+    h2 {
+        padding-left:30px;
+        font-size: 25px;
+    }
+    tr:nth-child(even) {
+        background-color: aqua;
+    }
+    tr:nth-child(odd) {
+        background-color: aquamarine;
+    }
+    a {
+        padding-left: 15px;
+    }
+    img {
+        border: 5px solid;
+        background-color: white;
+    }

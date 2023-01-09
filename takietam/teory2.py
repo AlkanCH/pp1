@@ -1,0 +1,1 @@
+print('university'[3:8])
